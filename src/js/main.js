@@ -17,18 +17,3 @@ document.addEventListener("DOMContentLoaded", () => {
     window.location.href = "2-form.html";
   });
 });
-
-
-
-// document.addEventListener("DOMContentLoaded", () => {
-//   const galleryHalf = document.getElementById("galleryHalf");
-//   const formHalf = document.getElementById("formHalf");
-
-//   galleryHalf.addEventListener("click", () => {
-//     window.location.href = "1-gallery.html";
-//   });
-
-//   formHalf.addEventListener("click", () => {
-//     window.location.href = "2-form.html";
-//   });
-// });
